@@ -13,13 +13,14 @@ Users should be able to:
 
 ### Screenshot
 
-![screenshot-desktop](https://user-images.githubusercontent.com/115939077/197379903-50885e02-3a2d-46c5-9ac7-2ea65c4d002f.png)
-![screenshot-mobile](https://user-images.githubusercontent.com/115939077/197379904-dc7394d2-26b4-494d-99b4-4f336fe07fa4.png)
+![Screenshot_1](https://user-images.githubusercontent.com/115939077/197765487-a9276559-d1e9-45ae-a33f-8dc3510090d2.png)
+
+![Screenshot_2](https://user-images.githubusercontent.com/115939077/197765498-cd3d7a5d-3a9c-42c5-862e-6b09a990ee59.png)
 
 ### Links
 
-- Solution URL: [Solution](https://github.com/3nonch/Product-preview-card-component)
-- Live Site URL: [Live view](https://3nonch.github.io/Product-preview-card-component/)
+- Solution URL: [Solution](https://github.com/3nonch/Order-summary-component)
+- Live Site URL: [Live view](https://3nonch.github.io/Order-summary-component/)
 
 ## My process
 
